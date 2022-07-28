@@ -52,7 +52,8 @@ public class Main {
         data.forEach(item -> System.out.println("|" + item));
         System.out.println("+--------------------------------------------------------------------------------------------------------------------------------------");
 
-        String dateTime = "_" + LocalDate.now().format(DateTimeFormatter.ofPattern("dd.MM.yy")) + "_" + LocalTime.now().format(DateTimeFormatter.ofPattern("HH.mm.ss"));
-        Files.write(Paths.get("src\\main\\resources\\result" + dateTime + ".txt"), data);
+        String dateTime = LocalDate.now().format(DateTimeFormatter.ofPattern("dd.MM.yy")) + "_" + LocalTime.now().format(DateTimeFormatter.ofPattern("HH.mm.ss"));
+        Files.createDirectories(Paths.get("src\\main\\resources\\results\\"));
+        Files.write(Paths.get("src\\main\\resources\\results\\" + dateTime + ".txt"), data);
     }
 }

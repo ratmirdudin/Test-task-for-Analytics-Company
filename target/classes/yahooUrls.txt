@@ -35,3 +35,5 @@ https://finance.yahoo.com/quote/AQMS/profile?p=AQMS
 https://finance.yahoo.com/quote/ENPH/profile?p=ENPH
 https://finance.yahoo.com/quote/FANG/profile?p=FANG
 https://finance.yahoo.com/quote/ACH/profile?p=ACH
+https://finance.yahoo.com/quote/005930.KS/profile?p=005930.KS
+https://finance.yahoo.com/quote/NOK/profile?p=NOK
