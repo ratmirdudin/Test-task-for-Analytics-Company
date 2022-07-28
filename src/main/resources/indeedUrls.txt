@@ -36,3 +36,15 @@ https://www.indeed.com/cmp/Enphase-Energy
 https://www.indeed.com/cmp/Diamondback-Energy
 https://www.indeed.com/cmp/Aluminum-Corporation-of-China
 https://www.indeed.com/cmp/Samsung-Electronics-9
+https://www.indeed.com/cmp/Nokia
+https://www.indeed.com/cmp/Bhp-2
+https://www.indeed.com/cmp/The-Linde-Group
+https://www.indeed.com/cmp/Rio-Tinto
+https://www.indeed.com/cmp/Vale
+https://www.indeed.com/cmp/Sherwin--williams
+https://www.indeed.com/cmp/Air-Products
+https://www.indeed.com/cmp/Avantor
+https://www.indeed.com/cmp/Olin-Corporation
+https://www.indeed.com/cmp/Ternium
+https://www.indeed.com/cmp/Chemours
+https://www.indeed.com/cmp/Braskem

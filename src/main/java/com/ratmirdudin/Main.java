@@ -34,6 +34,7 @@ public class Main {
             e.printStackTrace();
         }
 
+        // Shuffle Data For Pure Experiment
         Collections.shuffle(yahooCompanyUrls);
         Collections.shuffle(indeedCompanyUrls);
 
