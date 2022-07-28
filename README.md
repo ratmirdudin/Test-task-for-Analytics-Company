@@ -1,1 +1,2 @@
-# Test-task-for-Analytics-Company
+# Test task for Analytics Company
+Parsing name and industry of companies from websites https://finance.yahoo.com/ and https://www.indeed.com/. Cross matching data from 2 datasets. Merge industry info from 2 dataset. Urls of companies in resources/indeedUrls.txt and resources/yahooUrls.txt. Result of working program saving in resources/results. Please, wait time(~40-50s) while program will finished parsing and saving.
